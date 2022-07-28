@@ -1,0 +1,2 @@
+# XBan
+Users ban list
